@@ -3,5 +3,8 @@ npm-debug.log
 dist
 .git
 .env
-.env.*
 *.md
+coverage
+.nyc_output
+test
+*.spec.ts
